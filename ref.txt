@@ -1,0 +1,2 @@
+terraform import serve para importar objetos de recursos informando um recurso novo
+ele faz um change no recurso q vai ser alterado.
